@@ -5,7 +5,7 @@ import IgImg3 from '../public/img-3.avif'
 import IgImg4 from '../public/img-4.avif'
 import IgImg5 from '../public/img-5.avif'
 import IgImg6 from '../public/img-6.avif'
-import InstagramImg from './InstagramImg'
+import InstagramImg from './Instagramimg'
 
 
 const instagram = () => {
